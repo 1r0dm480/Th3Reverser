@@ -25,7 +25,7 @@ go to the directory Th3Reverser is installed and run it
 ```
 pkg install python
 pkg install git
-git clone https://www.github.com/EL_Psyc0p4the/Th3Reverser.git
+git clone https://github.com/EL-Psyc0p4the/Th3Reverser.git
 cd Th3Reverser
 python3 -m pip install -r requirements.txt
 python3 Th3Reverser.py
@@ -35,7 +35,7 @@ python3 Th3Reverser.py
 
 ```
 apt-get install python3-pip
-git clone https://www.github.com/EL_Psyc0p4the/Th3Reverser.git
+git clone https://github.com/EL-Psyc0p4the/Th3Reverser.git
 cd Th3Reverser
 python3 -m pip install -r requirements.txt
 python3 Th3Reverser.py
@@ -45,7 +45,7 @@ python3 Th3Reverser.py
 
 ```
 sudo apt-get install git python3-pip
-git clone https://www.github.com/EL_Psyc0p4the/Th3Reverser.git
+git clone https://github.com/EL-Psyc0p4the/Th3Reverser.git
 cd Th3Reverser
 python3 -m pip install -r requirements.txt
 python3 Th3Reverser.py
@@ -54,7 +54,7 @@ python3 Th3Reverser.py
 ## Installation on OSX
 
 ```
-git clone https://www.github.com/EL_Psyc0p4the/Th3Reverser.git
+git clone https://github.com/EL-Psyc0p4the/Th3Reverser.git
 cd Th3Reverser
 sudo python3 -m pip install -r requirements.txt
 python3 Th3Reverser.py
